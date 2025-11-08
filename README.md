@@ -20,7 +20,7 @@ Customize UI and logic as needed
 🔗 Demo Link: 
 https://livebet-9.pages.dev
 
-📸 Preview:
+📸 Preview: <br/>
 ![Spin Wheel Demo](https://github.com/ConDevTp/livebet-9/blob/main/assets/img/preview.png)
 
 📄 License
