@@ -18,9 +18,9 @@ Open index.html in your browser
 Customize UI and logic as needed
 
 🔗 Demo Link: 
-https://livebet-9.pages.dev
+https://livebet-9.pages.dev <br/><br/>
 
-📸 Preview: <br/>
+📸 Preview: <br/> <br/>
 ![Spin Wheel Demo](https://github.com/ConDevTp/livebet-9/blob/main/assets/img/preview.png)
 
 📄 License
